@@ -1,0 +1,25 @@
+{
+  "name": "jscourse",
+  "version": "1.0.0",
+  "description": "Project for Mocha test",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pavelanihimovsky/JSCourse.git"
+  },
+  "author": "Pavel Anihimovsky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pavelanihimovsky/JSCourse/issues"
+  },
+  "homepage": "https://github.com/pavelanihimovsky/JSCourse#readme",
+  "dependencies": {
+    "mocha": "^6.1.4"
+  }
+}
