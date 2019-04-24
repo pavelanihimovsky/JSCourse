@@ -6,7 +6,6 @@ const dateTime = require('../utils/dateTime.util');
 describe('Hello World TestSuite', () => {
     it('should write "Hello World"', () => {
         logger.info('Hello World');
-        logger.info(new Date().getFullYear());
     });
 
     it('dateTime.today should return today date', () => {
